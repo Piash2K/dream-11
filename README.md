@@ -107,5 +107,4 @@ Open the app in your browser at `http://localhost:5173`.
 * Authentication and backend scoring
 * Live matching with real data APIs
 
----
 
